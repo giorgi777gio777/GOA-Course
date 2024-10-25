@@ -1,0 +1,53 @@
+#z{
+border-radius: 25px;
+border-radius: 25px;
+background: black;
+width: 200px;
+height: 200px;
+border-radius: 25px;
+transition: 5s;
+}
+#z:active{
+    transform: rotate(200deg);
+}
+#x{
+border-radius: 100px;
+border-radius: 100px;
+background: black;
+width: 200px;
+height: 200px;
+border-radius: 25px;
+transition: 5s;
+}
+#x:active{
+    transform: translate(-0px,100px );;
+}
+
+#c{
+border-radius: 25px;
+background: black;
+width: 200px;
+height: 200px;
+border-radius: 25px;
+transition: 5s;
+}
+#c:hover{
+    transform: rotate(200deg)}
+
+#STITCH{
+color: aqua;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#GROOT{
+color: brown;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#MEWTWO{
+ color: pink;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ body{
+    background-color: black;
+ }
+

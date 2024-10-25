@@ -1,0 +1,67 @@
+#a{
+height: 333px;
+width: 333px;
+transition: 0.3s;
+}
+
+#a:hover{
+    transform: scale(1.02);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#g{
+    height:60px;
+    width: 60px;
+    margin-left: 50px;
+    border-radius: 5px;
+
+}
+
+
+
+
+
+#d{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    
+}
+
+#e{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#B{
+    width: 300px;}
+    
+
+
+

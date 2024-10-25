@@ -1,0 +1,29 @@
+#zacian{
+
+}
+#text{
+   width: 150px; 
+   color: white;
+   margin-left: 15px;
+}
+
+#div{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+;
+
+}
+body{
+    background-color: black;
+}
+
+#buton{
+    flex-direction: column;
+    margin-top: 26px;
+}
+#div2{
+    display: flex;
+    ;
+}

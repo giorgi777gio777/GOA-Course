@@ -1,0 +1,40 @@
+#a{
+    display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+.video{
+    width: 500px;
+    border-radius: 15px;
+  
+}  
+
+#dasoreba {
+   margin-right: 100px;
+}
+#b{
+    text-align: center;
+  
+    color: white;
+    
+}
+#potopng{
+    width: 100px;
+}
+#potowarwera{
+    display: flex;
+    margin-bottom: 100px;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: #0f0f0f;
+}
+
+
+
+.text{
+    color: white;
+}

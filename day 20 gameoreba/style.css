@@ -1,0 +1,45 @@
+#q{
+   background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    margin-top: 100px;
+    
+    transition: 2s;
+    
+
+
+}
+#q:hover{
+    transform:translate(100px);
+    background-color: blue;
+
+}
+#w{
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    margin-left:200px;
+    border-radius: 20px;
+    transition: 2s;
+    
+}
+
+#w:active{
+transform: scale(2);
+background-color: aquamarine;
+}
+
+#e{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 200px;
+    transition: 2s;
+}
+#e:active{
+    transform: rotate(200deg);
+    background-color: blue;
+}

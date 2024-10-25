@@ -1,0 +1,16 @@
+#s{
+    height: 300px;
+    width: 300px;
+    margin-top: 300px;
+    margin-left:200px;
+    border-radius: 25px;
+    transition: 2s;
+}
+#s:active{
+    transform: rotate(200deg);
+}
+
+#s{
+    background-image: url(tree.png);
+    height:250px;
+}

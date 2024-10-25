@@ -1,0 +1,42 @@
+#a{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+
+
+#b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+
+}
+
+
+#pok{
+    width: 100px;
+    
+}
+
+#infa{
+    width: 200px;
+    margin-left: 20px;
+    color: white;
+}
+
+body{
+    background-color:  #0f0f0f;
+}
+
+
+#red{
+    color: #8c3335;
+}
+
+#white{
+    color: white;
+}

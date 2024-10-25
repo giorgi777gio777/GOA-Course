@@ -1,0 +1,47 @@
+#fredy{
+    text-transform: uppercase;
+    text-shadow: 3px 4px red;
+    color: brown;
+    
+
+}
+img{ 
+    width: 400px;
+
+}
+#ff{
+   color: black
+ border-color: brown;
+ background-color: brown;
+}
+body{
+ background-color: black;
+}
+
+#chica{
+    color: gold;
+    text-transform: uppercase;
+    text-shadow: 3px 4px yellow;
+}
+#img{
+    width: 400px;
+}
+
+#ee{
+    color: black;
+    background-color: gold;
+}
+#ccc{
+    color: blue;
+    text-transform: uppercase;
+    text-shadow: 3px 4px aquamarine;
+}
+#img{
+    width: 400px;
+}
+#f{
+    color: black;
+    background-color: blue;
+    
+}
+    

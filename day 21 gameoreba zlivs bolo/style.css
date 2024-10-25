@@ -1,0 +1,50 @@
+#FANCA{
+    color: yellow;
+}
+
+#POP{
+    color: purple;
+}
+#w{
+    color: red;
+}
+.b{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+#a{
+    text-align: center;
+}
+
+
+
+.r{
+    width: 400px;
+    transition: 2s;
+}
+
+.r:hover{
+    transform: rotate(360deg);
+}
+
+
+
+
+
+.t{
+    width: 200px;
+    background-color: white;
+    border-radius: 25px;
+}

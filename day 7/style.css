@@ -1,0 +1,19 @@
+div{
+display: flex;
+flex-direction: column;
+}
+body{
+    background-color: black;
+}
+#d{
+  
+    color: black;
+    text-shadow: 4px 3px grey;
+
+
+
+}
+
+#s{
+    color: blue;
+}

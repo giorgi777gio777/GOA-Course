@@ -1,0 +1,40 @@
+.f{
+    width: 300px ;
+    height: 300px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    box-shadow: black 10px 4px 70px;
+    
+}
+.q{
+    width:150px ;
+    height: 20px ;
+    border-radius: 100px;
+    margin-bottom: 30px;
+    border: none;
+    background-color: gray;
+    color:white
+  
+}
+
+.r{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+#y{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+   
+    
+}
+
+#w{
+    text-align: center;
+    color: black;
+    box-shadow: 1px 2px;
+}

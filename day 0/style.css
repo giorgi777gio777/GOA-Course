@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+
+#f{
+    color: red;
+}
+
+#f span{
+    color: blue;
+}
+
+#g{
+    color:pink
+}
+
+#g span{
+    color: aqua;
+}
+body{
+    background-color: black; font-family: "Protest Riot", sans-serif;
+}
+button{
+    color: blueviolet;
+    border: solid blueviolet;
+}
+img{
+    border-radius: 40px;
+}

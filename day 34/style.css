@@ -1,0 +1,21 @@
+#button{
+border-radius: 25px;
+color: #1c997c;
+background-color: #99891c;
+}
+
+
+#img{
+width: 530px;
+height: 400px;
+}
+
+#div{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+body{
+    background-color: #99891c;
+}
