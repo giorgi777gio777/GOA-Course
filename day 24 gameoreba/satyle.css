@@ -1,0 +1,14 @@
+#e{
+    display: flex;
+}
+
+.a{
+    border-radius: 25px;
+}
+.b{
+    color: yellow;
+    box-shadow: 1px 3px 5px black;
+}
+#g{
+   margin-right: 100px;
+}

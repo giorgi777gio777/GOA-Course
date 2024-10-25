@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    display: flex;
+    font-family: roboto;
+    
+}
+
+
+#decor{
+    background-image: url(bacground.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 50%;
+    
+
+}
+#decor h2{
+    position: relative;
+    top: 75px;
+    left: 150px;
+    color: rgb(48, 82, 149);
+    font-size: 15px;
+    font-weight: 500;
+}
+#important{
+    font-size: 30px;
+    font-weight: 900;
+}
+#Already{
+    position: relative;
+    left: 600px;
+    
+}
+
+#form-header{
+    display: flex;
+    width: 100%;
+    gap: 30px;
+
+}
+#svg1,#svg2{
+    width: 50px;
+    background-color:rgb(199, 184, 184);
+    height: 50px;
+}
+
+
+
+
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+
+
+
+
+input{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+}
+.password{
+    width: fit-content;
+}
+.password a{
+   position: absolute;
+   right: 350px;
+   top: 394px;
+   display: inline;
+
+
+}
+
+.password svg{
+    width: 50px;
+
+}
+
+#button{
+    border-radius: 5px;
+    background-color: rgb(72, 72, 200);
+    height: 40px;
+    width: 300px;
+}
