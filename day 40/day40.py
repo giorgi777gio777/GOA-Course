@@ -1,10 +1,15 @@
-# georgia = input("ჩაწერეთ აქ თქვენი სახელი")
-# print("giorgi  თქვენ ჩაწერეთ ყველაზე საშიშ საიტზე თქვენი სახელი ახლა ჩვენ თქვენ გიპოვით და მოგკლავთ")
+oreo = 'პეჩ'
+oreo2 = 'ენია'
+print(oreo+oreo2)
 
-# name1 = "ada"
-# name2 = "miani"
-# print(name1 + name2)
+tura =input("ჩაწერე შენი სახელი ")
+print("გამარჯობა ",tura)
 
-name1 = "20"
-okoko=int(name1)
-print(type(okoko))
+melia = int(input("ჩაწერეთ რიცხვი"))
+print(melia+20)
+print(melia-15)
+print(melia/2)
+print(melia*5)
+
+yiramala = "2"
+print(int(yiramala) +10)
